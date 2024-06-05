@@ -18,3 +18,7 @@ Files will mainly be provided in a format closely related to the design, so for 
 
 - Switch Plate - Designed to be 1.2mm thick so Choc switches can clip in
 - Plate Support - Goes in between PCB and Switch Plate, designed to be 1.0mm thick
+
+## License
+
+These case files are released under the MIT License.
