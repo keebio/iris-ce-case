@@ -18,6 +18,7 @@ Files will mainly be provided in a format closely related to the design, so for 
 
 - Switch Plate - Designed to be 1.2mm thick so Choc switches can clip in
 - Plate Support - Goes in between PCB and Switch Plate, designed to be 1.0mm thick
+- Tripod Mount Adapter (Experimental) - Remove 4 of the silicone bumpers at the bottom and insert 4 M3 screws from the topside of the tray into the adapter
 
 ## License
 
