@@ -10,7 +10,6 @@ Files to expect once we're less busy with other things:
 - Tenting accessories
     - Tripod adapter
     - Tenting legs
-- Printable tray (might need threaded heat-set inserts, TBD)
 
 ## Files
 
@@ -19,6 +18,17 @@ Files will mainly be provided in a format closely related to the design, so for 
 - Switch Plate - Designed to be 1.2mm thick so Choc switches can clip in
 - Plate Support - Goes in between PCB and Switch Plate, designed to be 1.0mm thick
 - Tripod Mount Adapter (Experimental) - Remove 4 of the silicone bumpers at the bottom and insert 4 M3 screws from the topside of the tray into the adapter
+
+### Printable Tray Case
+
+In the [`printable`](printable/) folder, there are STL files for you to print out a case similar to the aluminum case design. The switch plates have been made to be thick enough while also having notches on the underside for the Choc switches to clip into the plate.
+
+In addition to printing the files, you will need the following parts:
+
+- 12x M2 8mm screws ([6mm screws](https://keeb.io/products/m2-screws-and-standoffs?variant=12490111582302) should fine as well)
+- [Shroomies Silicone Feet](https://keeb.io/products/shroomies-silicone-feet?utm_source=docs)
+
+This design is not suitable for handwiring, as it's been designed with use of the PCB in-mind.
 
 ## License
 
