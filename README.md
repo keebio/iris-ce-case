@@ -30,6 +30,10 @@ In addition to printing the files, you will need the following parts:
 
 This design is not suitable for handwiring, as it's been designed with use of the PCB in-mind.
 
+## Other Info
+
+The silicone feet on the bottom of the tray can be removed. 4 of the holes are arranged in a 50x90mm rectangle and are large enough to accommodate M3 screws being inserted through them. The other two holes are spaced 50mm apart.
+
 ## License
 
 These case files are released under the MIT License.
