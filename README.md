@@ -27,6 +27,7 @@ In addition to printing the files, you will need the following parts:
 
 - 12x M2 8mm screws ([6mm screws](https://keeb.io/products/m2-screws-and-standoffs?variant=12490111582302) should fine as well)
 - [Shroomies Silicone Feet](https://keeb.io/products/shroomies-silicone-feet?utm_source=docs)
+- (Optional) [Silicone Tray Liner for the Iris CE](https://keeb.io/products/iris-silicone-tray-liners?variant=41729654489182&utm_source=docs)
 
 This design is not suitable for handwiring, as it's been designed with use of the PCB in-mind.
 
